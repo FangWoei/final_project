@@ -1,0 +1,5 @@
+#home{
+    background: url(../img/home.jpg);
+    height: 100vh;
+    background-size: cover;
+  }
